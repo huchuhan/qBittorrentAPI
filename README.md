@@ -4,7 +4,7 @@ Java API for the qBittorrent API
 # Add to your Maven Project
 ```
 <dependency>
-    <groupId>com.sarryromain</groupId>
+    <groupId>org.huchuhan</groupId>
     <artifactId>qbittorrent-api</artifactId>
     <version>1.0</version>
 </dependency>
